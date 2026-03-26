@@ -2,7 +2,7 @@
 
 Um jogo simples para adivinhar um número aleatório e praticar **Python** com **Programação Orientada a Objetos (POO)**.
 
-![Banner do jogo](banner_jogo.png)
+![Banner do jogo](imagens/banner_jogo.png)
 
 ---
 
@@ -43,7 +43,7 @@ No começo da execução:
 * o jogo mostra as regras
 * o limite de tentativas é exibido
 
-![Print Inicio](Print_inicio.jpg)
+![Print Inicio](imagens/Print_inicio.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ A cada rodada:
 
 O jogo termina quando o jogador **acerta** ou **acaba as tentativas**.
 
-![Print meio](Palpite.jpg)
+![Print meio](imagens/Palpite.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ Ao finalizar, o programa mostra:
 * tentativas usadas
 * pontuação final
 
-![Print Final](Print_meio.jpg)
+![Print Final](imagens/Print_meio.jpg)
 
 ---
 
