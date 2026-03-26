@@ -33,6 +33,8 @@ A classe do jogo armazena:
 
 Ela funciona como a base de toda a lógica do jogo.
 
+![Classes](imagens/Classes.jpg)
+
 ---
 
 ## ▶️ Início do jogo
